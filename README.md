@@ -17,7 +17,8 @@ Reqirements :
 * [FrontAccess]
 * [FinderSelection]
 
-[ModuleLoader]: http://www.script-factory.net/software/OSAX/ModuleLoader/en/ind[GUIScriptingChecker]: http://www.script-factory.net/XModules/GUIScriptingChecker/en/index.html
+[ModuleLoader]: http://www.script-factory.net/software/OSAX/ModuleLoader/en/index.html
+[GUIScriptingChecker]: http://www.script-factory.net/XModules/GUIScriptingChecker/en/index.html
 [FrontAccess]: http://www.script-factory.net/XModules/FrontAccess/en/index.html
 [FinderSelection]: http://www.script-factory.net/XModules/FinderSelection/index.html
 
