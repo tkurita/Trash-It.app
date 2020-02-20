@@ -38,7 +38,7 @@
 	<key>CFBundleSignature</key>
 	<string>dplt</string>
 	<key>CFBundleVersion</key>
-	<string>1.2.2</string>
+	<string>8</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
 	<dict>
 		<key>x86_64</key>
